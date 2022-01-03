@@ -61,3 +61,6 @@ border-radius: 5px;
     border-left: 7px solid;
     border-image-slice: 1;
 }
+footer p{
+    text-align: center;
+}
